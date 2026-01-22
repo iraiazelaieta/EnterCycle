@@ -1,0 +1,10 @@
+ID;SektoreIzena
+1;Diseinu industriala
+2;Informatika
+3;Mekatronika
+4;Metalurgia
+5;Lurringintza
+6;Nekazaritza
+7;Abeltzaintza
+8;Mekanika
+9;Elektronika
